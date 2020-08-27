@@ -1,6 +1,6 @@
 # Face_Verification
 
-Using HaarCascade frontalface xml file from the OpenCV. OpenCV already contains many pre-trained classifiers for face, eyes, smile etc. 
+Using Haar Cascade frontalface xml file from the OpenCV.
 
 Now using this detector we detect the faces in the picture.
 
