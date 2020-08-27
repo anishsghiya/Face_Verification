@@ -1,4 +1,4 @@
-# Face_Verification
+# Face Verification
 
 Using Haar Cascade frontalface xml file from the OpenCV.Using this detector we detect the faces in the picture.
 
